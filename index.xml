@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Xinqi(Mona)&#39;s Blog</title>
-    <link>http://lixinqi98.github.io/</link>
+    <link>https://lixinqi98.github.io/</link>
     <description>Recent content on Xinqi(Mona)&#39;s Blog</description>
     <image>
-      <url>http://lixinqi98.github.io/Users/mona/Documents/personal-page/mona-website/photo.jpeg</url>
-      <link>http://lixinqi98.github.io/Users/mona/Documents/personal-page/mona-website/photo.jpeg</link>
+      <url>https://lixinqi98.github.io/Users/mona/Documents/personal-page/mona-website/photo.jpeg</url>
+      <link>https://lixinqi98.github.io/Users/mona/Documents/personal-page/mona-website/photo.jpeg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://lixinqi98.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://lixinqi98.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
